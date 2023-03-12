@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeczZots
 - 👀 I’m interested in arbitrage, HFT, AMM.
-- 🌱 I’m currently learning c# 
-- 💞️ I’m looking to collaborate on Alameda research , Waves labs , Binance labs 
+- 🌱 I’m currently learning golang 
+- 💞️ I’m looking to collaborate on HeadQuarters 
 - 📫 How to reach me https://t.me/heczzots
 
 <!---
