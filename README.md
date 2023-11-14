@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HeczZots
 - 👀 I’m interested in arbitrage, HFT, AMM, TAS, WEB 3.0, blockchain
-- 🌱 I’m currently learning golang, javascript, typescript, solidity
 - 💞️ I’m looking to collaborate on HeadQuarters 
 - 📫 How to reach me https://t.me/heczzots
 
